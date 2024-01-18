@@ -1,2 +1,2 @@
-# phantomkodi
+# phantom-kodi
 KODI add-on
